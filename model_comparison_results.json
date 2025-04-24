@@ -1,0 +1,18 @@
+{
+    "two_model": {
+        "best_classifier": "SVM",
+        "accuracy": 0.9418043202033037,
+        "inference_time_ms": 74.33931827545166,
+        "model_size_mb": 23.80064582824707
+    },
+    "end_to_end": {
+        "accuracy": 0.9377382397651672,
+        "inference_time_ms": 72.77600765228271,
+        "model_size_mb": 10.259353637695312
+    },
+    "comparison": {
+        "accuracy_diff_percent": 0.43360505796956605,
+        "time_diff_percent": 2.1481126453628763,
+        "size_diff_percent": 131.98972049075118
+    }
+}

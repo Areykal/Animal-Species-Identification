@@ -1,0 +1,20 @@
+{
+    "SVM": {
+        "val_accuracy": 0.9352371239163692,
+        "test_accuracy": 0.9418043202033037,
+        "training_time": 98.1934552192688,
+        "inference_time": 0.0026740550994873045
+    },
+    "Random Forest": {
+        "val_accuracy": 0.9283528811830699,
+        "test_accuracy": 0.9341804320203304,
+        "training_time": 8.45433759689331,
+        "inference_time": 0.023947477340698242
+    },
+    "MLP": {
+        "val_accuracy": 0.9314125446200918,
+        "test_accuracy": 0.9346886912325286,
+        "training_time": 5.303355932235718,
+        "inference_time": 0.00032122135162353515
+    }
+}
