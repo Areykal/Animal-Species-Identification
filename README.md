@@ -1,6 +1,6 @@
 # Animal Species Identification Streamlit App
 
-This is a Streamlit application for the Animal Species Identification project.
+This is a Streamlit application for the Animal Species Identification project. Navigate to master branch for the code and implementation.
 
 ## Features
 - Upload images for animal species identification
